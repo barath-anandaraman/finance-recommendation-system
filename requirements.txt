@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+sklearn
+winsorize
+StandardScaler
+KMeans
+silhouette_score
+davies_bouldin_score
+matplotlib
+seaborn
+warnings
